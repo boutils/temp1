@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 16,
+  "icon": "mdi-table-multiple",
+  "color": "#4E79A8",
+  "parameters": [],
+  "recipe": [
+    {
+      "id": "Y2Y70rlV6WbDvuznj9RYH8",
+      "transform": "IMPORT",
+      "params": {
+        "type": "manual"
+      }
+    },
+    {
+      "id": "R7KSYzwXJZxMbv4wWMZVOW",
+      "transform": "VIEW",
+      "views": [
+        {
+          "id": "h8wgYnSSgHfDHFpjM6BJUQ",
+          "name": "View1",
+          "markers": {
+            "primary": [
+              "no_edit"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "boundaries": {
+    "server": null
+  }
+}
