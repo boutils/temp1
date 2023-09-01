@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 16,
+  "id": "gHuTVhQPTQrGymq2Z5KeXW",
+  "pages": [
+    {
+      "type": "journey",
+      "id": "DKJtPg4hSZfmnlcH1KAzcN",
+      "name": "Pipeline"
+    },
+    {
+      "type": "sheet",
+      "id": "n4IOXEJeitAx7SEJvHQCcK",
+      "name": "Sheet"
+    },
+    {
+      "type": "notebook",
+      "id": "CCgAhwVMEUdt8EDsnggKuP",
+      "name": "Notebook"
+    }
+  ]
+}

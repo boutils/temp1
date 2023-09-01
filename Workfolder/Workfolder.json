@@ -6,6 +6,16 @@
       "type": "journey",
       "id": "OE9U48lFbLflaV7ootwaDU",
       "name": "Pipeline"
+    },
+    {
+      "type": "notebook",
+      "id": "cEgU1kfttZuptRB9p8Te18",
+      "name": "Notebook"
+    },
+    {
+      "type": "sheet",
+      "id": "wO2ZrxGjZpX5YsYFjTLjBN",
+      "name": "Sheet"
     }
   ]
 }
