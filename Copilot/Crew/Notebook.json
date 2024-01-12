@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 16,
+  "icon": "si-copilot",
+  "color": "#11A37F",
+  "blocks": [
+    {
+      "id": "n6GNxg5IT6SGzmPhJcZ9FK",
+      "lang": "javascript"
+    },
+    {
+      "id": "WZRFjAxZEtX6IplOSZUHPY",
+      "lang": "javascript"
+    },
+    {
+      "id": "gnexzgmYrgyzZbIL798nUJ",
+      "lang": "python",
+      "pinned": true
+    },
+    {
+      "id": "ZftdiKnijOXDdGIFcWzzP5",
+      "lang": "javascript"
+    },
+    {
+      "id": "ybEoPkhXkOEoBBICLy7YdW",
+      "lang": "python",
+      "pinned": true
+    },
+    {
+      "id": "ziJqLORdHVM5uJKEI9o7YD",
+      "lang": "javascript"
+    },
+    {
+      "id": "NQhKJgt1d9EPqok4mVbYgb",
+      "lang": "python"
+    },
+    {
+      "id": "pruswd0n1dXn9FQunneXl5",
+      "lang": "python"
+    },
+    {
+      "id": "AkiNYRxUS2NmFocgTrTwjV",
+      "lang": "python"
+    },
+    {
+      "id": "Ir71WSXQG2WmVh8dTQghFI",
+      "lang": "javascript"
+    },
+    {
+      "id": "j98dwLP2HMGmjupmfrY5Wd",
+      "lang": "python"
+    },
+    {
+      "id": "Kdh0lLAPpMqKRquq3n6IZ8",
+      "lang": "python"
+    }
+  ]
+}

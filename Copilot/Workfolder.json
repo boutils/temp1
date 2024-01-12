@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 16,
+  "id": "R6AH5LmCikbuMEHFKLOXkf",
+  "icon": "si-copilot",
+  "color": "#11A37F",
+  "pages": [
+    {
+      "type": "notebook",
+      "id": "OUen3PfTilqHdVLe8sXdpg",
+      "name": "Crew"
+    },
+    {
+      "type": "journey",
+      "id": "euALFNKcCg2vFAjZyjwf2s",
+      "name": "Questions"
+    },
+    {
+      "type": "journey",
+      "id": "jykwoqi9YsrCZLcKmS85D8",
+      "name": "Terms"
+    }
+  ]
+}

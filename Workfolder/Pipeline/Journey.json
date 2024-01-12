@@ -5,28 +5,16 @@
   "parameters": [],
   "recipe": [
     {
-      "id": "Y2Y70rlV6WbDvuznj9RYH8",
+      "id": "hYuBkQrSQmuPlDXA6wqLCx",
       "transform": "IMPORT",
       "params": {
         "type": "manual"
       }
     },
     {
-      "id": "R7KSYzwXJZxMbv4wWMZVOW",
+      "id": "MJAN76iYMisYhEZcG6gfvh",
       "transform": "VIEW",
-      "post": {
-        "markers": {
-          "primary": [
-            "no_edit"
-          ]
-        }
-      },
-      "views": [
-        {
-          "id": "oONR3nbAA9OE3yIcoqQm48",
-          "name": "View1"
-        }
-      ]
+      "explanation": "View232"
     }
   ],
   "boundaries": {

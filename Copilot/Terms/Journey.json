@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 16,
+  "icon": "mdi-book-alphabet",
+  "color": "#11A37F",
+  "parameters": [],
+  "recipe": [
+    {
+      "id": "rtx37vekLsLTWDF7cRVcEX",
+      "transform": "IMPORT",
+      "params": {
+        "type": "manual"
+      },
+      "post": {
+        "markers": {
+          "primary": [
+            "term"
+          ]
+        }
+      }
+    },
+    {
+      "id": "bAOCoiz1TqibjTVHDPmHY5",
+      "transform": "EDIT",
+      "params": {
+        "columns": [
+          "term",
+          "definition"
+        ]
+      }
+    }
+  ],
+  "boundaries": {
+    "server": null
+  }
+}
